@@ -1,4 +1,4 @@
-# Project-Data-Analysis
+# EM_Algorithm_and_Kmeans
 
 Implementation of Expectation-Maximization algorithm and it's application on Poisson distributions
 
